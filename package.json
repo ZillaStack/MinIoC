@@ -1,0 +1,10 @@
+{
+    "name": "com.zillastack.microsoft.minioc",
+    "displayName": "MinIoC",
+    "version": "1.0",
+    "unity": "2022.3",
+    "description": "Fork of microsoft/MinIoC modified for Unity Package Manager",
+    "license": "MIT",
+	"keywords": [],
+    "dependencies": {}
+}

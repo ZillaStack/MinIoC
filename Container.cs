@@ -12,7 +12,7 @@ namespace Microsoft.MinIoC
     /// <summary>
     /// Inversion of control container handles dependency injection for registered types
     /// </summary>
-    class Container : Container.IScope
+    public class Container : Container.IScope
     {
         #region Public interfaces
         /// <summary>

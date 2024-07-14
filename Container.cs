@@ -221,7 +221,7 @@ namespace Microsoft.MinIoC
     /// <summary>
     /// Extension methods for Container
     /// </summary>
-    static class ContainerExtensions
+    public static class ContainerExtensions
     {
         /// <summary>
         /// Registers an implementation type for the specified interface
